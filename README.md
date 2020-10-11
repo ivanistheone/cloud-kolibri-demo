@@ -1,1 +1,1 @@
-Project moved here: https://github.com/learningequality/cloud-kolibri-demo
+This project has moved here: https://github.com/learningequality/content-automation-scripts
